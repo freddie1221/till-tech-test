@@ -3,12 +3,24 @@
   "version": "1.0.0",
   "description": "Tech test to improve at JS OOD",
   "main": "app.js",
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
+  },
   "scripts": {
-    "test": "npm test"
+    "test": "jest --verbose"
   },
   "author": "Freddie",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
+    "jest-cli": "^23.6.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "cli": "^1.0.1",
+    "regenerator-runtime": "^0.12.1"
   }
 }
