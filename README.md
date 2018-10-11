@@ -1,5 +1,24 @@
-Till tech test
-==============
+*** Till tech test
+
+This is version 1 of the till tech test, built in vanilla JS
+
+*To run the tests
+
+1. Navigate to the till-tech-test directory
+2. Install the node packages: `npm install`
+3. Run the tests: `npm jest`
+
+*To run the code
+
+1. Navigate to the till-tech-test directory
+2. enter `node` into the console
+3. enter `.load appRunner.js`
+4. A new order has been initiated, add an item to the order from ./hipstercoffee.json in this way: `order.addItem("Cafe Latte")
+5. To print out the receipt at any time, `printer.printOrder()`
+
+
+
+** Requirements
 
 We want to sell tills to a local hipster coffee shop who are finally embracing the 21st century. We need a new till to replace their vintage machines - unfortunately, hipster staff are too cool to learn a new system, so we need you to build something that they will understand.
 
@@ -7,8 +26,6 @@ Specification
 -------------
 
 This is what a sample receipt looks like:
-
-
 
 
 Version 1
