@@ -1,14 +1,17 @@
 *** Till tech test
+==================
 
 This is version 1 of the till tech test, built in vanilla JS
 
-*To run the tests
+To run the tests
+-------------
 
 1. Navigate to the till-tech-test directory
 2. Install the node packages: `npm install`
 3. Run the tests: `npm jest`
 
-*To run the code
+To run the code
+-------------
 
 1. Navigate to the till-tech-test directory
 2. enter `node` into the console
@@ -18,7 +21,8 @@ This is version 1 of the till tech test, built in vanilla JS
 
 
 
-** Requirements
+Requirements
+-------------
 
 We want to sell tills to a local hipster coffee shop who are finally embracing the 21st century. We need a new till to replace their vintage machines - unfortunately, hipster staff are too cool to learn a new system, so we need you to build something that they will understand.
 
