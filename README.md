@@ -16,7 +16,7 @@ To run the code
 1. Navigate to the till-tech-test directory
 2. enter `node` into the console
 3. enter `.load appRunner.js`
-4. A new order has been initiated, add an item to the order from ./hipstercoffee.json in this way: `order.addItem("Cafe Latte")
+4. A new order has been initiated, add an item to the order from ./hipstercoffee.json in this way: `order.addItem("Cafe Latte")`
 5. To print out the receipt at any time, `printer.printOrder()`
 
 
