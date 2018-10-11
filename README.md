@@ -1,4 +1,4 @@
-*** Till tech test
+Till tech test
 ==================
 
 This is version 1 of the till tech test, built in vanilla JS
